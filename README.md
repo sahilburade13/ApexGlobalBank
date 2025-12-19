@@ -9,13 +9,19 @@ A modern, scalable online banking system built using a microservices architectur
 Features
 
 Account Management: Create, update, and manage user accounts and balances.
+
 Transaction Processing: Handle transfers, payments, and transaction history.
+
 Loan Management: Process loan applications, schedules, and credit scoring.
+
 Notification System: Send emails and SMS notifications using event-driven architecture.
-Authentication: Secure user authentication with JWT/OAuth2 via Keycloak.
+
+Authentication: Secure user authentication with JWT/OAuth2.
+
 Service Discovery: Dynamic service registration and discovery with Eureka.
 
-Technologies
+Technologies 
+
 Backend: Java, Spring Boot, Spring Cloud
 Databases: PostgreSQL (JPA/Hibernate), MongoDB
 Message Broker: Apache Kafka, Zookeeper
